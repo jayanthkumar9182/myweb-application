@@ -1,0 +1,48 @@
+#card{
+    box-shadow: 5px;
+    margin-left: 60px;
+    width: 200px;
+    height: 120px;
+    background-color :blanchedalmond;
+    #card1{
+        height: 65%;
+        width: 61%;
+        margin-top: 21px;
+        margin-left: 6px;
+        border-radius: 50%; 
+        background-color: rgb(144, 180, 144); 
+    }
+    
+}
+#first ::first-letter {
+    color: green;
+}
+#second ::first-letter {
+    color: red;
+}
+
+#graph{
+    width: 650px;
+    height: 300px;
+    background-color: beige;
+    margin-top: 20px;
+    margin-left: 80px;
+}
+#piechart{
+    width: 27px;
+    height: 277px;
+   
+    margin-left: 10px;
+    margin-top: 20px;
+}
+#last{
+    width: 970px;
+    height: 380px;
+    background-color: beige;
+    margin-left: 80px;
+    
+}
+img{
+    width: 40px;
+    height: 40px;
+}
